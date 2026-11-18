@@ -1,0 +1,38 @@
+.box {
+    height: 30px;
+    width: 600px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+div {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: beige;
+    height: max-content;
+    width: max-content;
+}
+
+#file {
+    background-color: white;
+    height: 30px;
+    width: 600px;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h2, .center {
+    text-align: center;
+}
+
+span {
+    color: red;
+}
+
+button {
+    padding: 8px 20px;
+    cursor: pointer;
+}
